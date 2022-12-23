@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "E5B459CC5105C6F49FEDB2E88E92D436",
+  "keywordClasses": [
+    {
+      "name": "stepDefinition.Check",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": false
+}
